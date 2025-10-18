@@ -1,6 +1,6 @@
 # SPP Automatic Reporting Module (SCADA Integrated)
 
-This Python script is an automatic reporting module developed to enhance the operational efficiency of **Movicon-based Solar Power Plants (SPP)**. At a specified time (usually end-of-day), it retrieves production, reactive energy, field parameters, and alarm data from a Microsoft SQL Server database, generates a professional HTML report containing dynamic charts and tables, and automatically sends it to relevant managers via email.
+This Python script is an automatic reporting module developed to enhance the operational efficiency of **Solar Power Plants (SPP)** which uses SQL based SCADA systems. At a specified time (usually end-of-day), it retrieves production, reactive energy, field parameters, and alarm data from a Microsoft SQL Server database, generates a professional HTML report containing dynamic charts and tables, and automatically sends it to relevant managers via email.
 
 -----
 
